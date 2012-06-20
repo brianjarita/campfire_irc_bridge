@@ -22,7 +22,7 @@ Update the header prefix on line 124
 
 Usage
 ---------------
-python camfire_irc_bot.py
+python campfire_irc_bot.py
 
 To send a message to the campfire room send a private message to the bot.
 To view the messages in the campfire room be in the messages irc channel.
