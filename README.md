@@ -13,6 +13,7 @@ Getting Started
 (i am using it as a trigger) and the second param should be where you want the
 messages to go.
 5. Update line 123 to match the messages channel
+6. Update line 192 with the irc host and port
 
 
 Optional
